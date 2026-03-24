@@ -42,8 +42,8 @@ age <= 25
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Jeevansurya k
-RegisterNumber: 212222040061
+Developed by: VIJAY SHANKAR M
+RegisterNumber: 212222040178
 */
 import java.util.*;
 public class Main
